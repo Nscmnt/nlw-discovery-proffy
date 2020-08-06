@@ -1,7 +1,7 @@
 <h1 align="center"> 📚Proffy </h1>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#Proffy" src="github/page.png" />
+  <img alt="NextLevelWeek" title="#Proffy" src="./github/page.png" />
 </h1>
 
 <p align="center">Uma plataforma de ensino que une alunos e professores de várias disciplinas, sendo possível reservar horários das aulas de acordo com a disponibilidade de datas e horas dos tutores.</p>
@@ -56,7 +56,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="">
- <img style="border-radius: 100%;" src="./github/perfil.jpg" width="100px;" height="100px;" alt=""/>
+ <img style="border-radius: 
+ 50%;" src="./github/perfil.jpg" width="100px;" height="100px;" alt=""/>
  <br />
  <sub><b>Jorge Nascimento</b></sub></a>🚀</a>
 
