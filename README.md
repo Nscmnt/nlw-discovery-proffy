@@ -20,12 +20,14 @@
 </h4>
 
 ### Pré-requisitos
+---
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Projeto
+---
 
 ```bash
 # Clone este repositório
@@ -37,13 +39,14 @@ $ cd nlw
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação 
 $ npm start
 
 # O servidor inciará na porta:
 ```
 
 ### 🛠 Tecnologias
+---
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -58,10 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img style="border-radius:50%;" src="https://ik.imagekit.io/Nscmnt/perfil_jp9x7MB_i.jpg" width="100px;" height="100px;" alt="Foto Perfil"/>
  <br />
- <sub><b>Jorge Nascimento</b></sub>🚀
-
-
-Feito com  por Jorge Nascimento 💻
+Feito por <strong> Jorge Nascimento </strong> 💻 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-nascimento-a465511ab/)](https://www.linkedin.com/in/jorge-nascimento-a465511ab/) 
 [![Gmail Badge](https://img.shields.io/badge/-jorg3nascimento-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorg3nascimento@gmail.com)](mailto:jorg3nascimento@gmail.com)
