@@ -55,11 +55,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="">
- <img style="border-radius: 
- 50%;" src="https://ik.imagekit.io/Nscmnt/perfil_jp9x7MB_i.jpg" width="100px;" height="100px;" alt=""/>
+
+ <img style="border-radius:50%;" src="https://ik.imagekit.io/Nscmnt/perfil_jp9x7MB_i.jpg" width="100px;" height="100px;" alt="Foto Perfil"/>
  <br />
- <sub><b>Jorge Nascimento</b></sub></a>🚀</a>
+ <sub><b>Jorge Nascimento</b></sub>🚀
 
 
 Feito com  por Jorge Nascimento 💻
