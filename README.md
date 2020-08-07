@@ -8,10 +8,10 @@
 
 
 <p align = "center">
-  <a href="#"> in progress </a> •
-  <a href="#"> in progress </a> •
-  <a href="#"> in progress  </a> • 
-  <a href="#"> in progress </a> •
+  <a href="#pre"> Pré-requisito </a> •
+  <a href="#rodando"> Rodando projeto </a> •
+  <a href="#tecnologia">Tecnologias</a> • 
+  <a href="#autor"> Autor </a> •
   <a href="#"> in progress </a>
 </p>
 
@@ -19,14 +19,14 @@
 	🚧 Status 🚀 Em construção...  🚧
 </h4>
 
-### Pré-requisitos
+<h2 id="pre"> Pré-requisitos </h2>
 ---
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Projeto
+ <h2 id="rodando">🎲 Rodando o Projeto </h2>
 ---
 
 ```bash
@@ -45,7 +45,7 @@ $ npm start
 # O servidor inciará na porta:
 ```
 
-### 🛠 Tecnologias
+<h2 id="tecnologia">🛠 Tecnologias
 ---
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -55,7 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
 
-### Autor
+<h2 id="autor"> 🎙Autor
 ---
 
 
