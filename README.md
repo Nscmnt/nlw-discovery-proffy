@@ -20,6 +20,7 @@
 </h4>
 
 <h2 id="pre"> Pré-requisitos </h2>
+
 ---
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -27,6 +28,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
  <h2 id="rodando">🎲 Rodando o Projeto </h2>
+
 ---
 
 ```bash
@@ -46,6 +48,7 @@ $ npm start
 ```
 
 <h2 id="tecnologia">🛠 Tecnologias</h2>
+
 ---
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -56,10 +59,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 
 <h2 id="autor"> 🎙Autor</h2>
+
 ---
-
-
- <img style="border-radius:50%;" src="https://ik.imagekit.io/Nscmnt/perfil_jp9x7MB_i.jpg" width="100px;" height="100px;" alt="Foto Perfil"/>
+ <img style="border-radius:50px;" src="https://ik.imagekit.io/Nscmnt/perfil_jp9x7MB_i.jpg" width="100px;" height="100px;" alt="Foto Perfil"/>
  <br />
 Feito por <strong> Jorge Nascimento </strong> 💻 🚀
 
