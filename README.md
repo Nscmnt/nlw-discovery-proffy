@@ -45,7 +45,7 @@ $ npm start
 # O servidor inciará na porta:
 ```
 
-<h2 id="tecnologia">🛠 Tecnologias
+<h2 id="tecnologia">🛠 Tecnologias</h2>
 ---
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -55,7 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
 
-<h2 id="autor"> 🎙Autor
+<h2 id="autor"> 🎙Autor</h2>
 ---
 
 
