@@ -119,6 +119,7 @@
 
     #page-give-classes .page-header .header-content{
         margin-bottom: 0;
+        
     }
 
     #page-give-classes main fieldset{
@@ -136,6 +137,20 @@
     #page-give-classes #schedule-itens .select-block+.input-block,
     #page-give-classes #schedule-itens .input-block+.input-block{
         margin-top: 0;
+
+    }
+
+    #page-give-classes main footer{
+        padding: 40px 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+    #page-give-classes main footer button{
+        margin-top: 0;
+        width: 200px;
 
     }
 
