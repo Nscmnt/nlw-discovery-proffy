@@ -61,7 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h2 id="autor"> 🎙Autor</h2>
 
 ---
- <img style="border-radius:50px;" src="https://ik.imagekit.io/Nscmnt/perfil_2ig9CJdMK.jpg" width="100px;" height="100px;" alt="Foto Perfil"/>
+ <img style="border-radius:50px;" width="100px;" height="100px;" src="https://ik.imagekit.io/Nscmnt/perfil_2ig9CJdMK.jpg"  alt="Foto do autor"/>
  <br />
 Feito por <strong> Jorge Nascimento </strong> 💻 🚀
 
