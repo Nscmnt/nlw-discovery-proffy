@@ -1,3 +1,4 @@
+//Dados
 const proffys = [
     {name: "Diego fernandes", 
     avatar:"https://avatars2.githubusercontent.com/u/2254731?s=460&amp;u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&amp;v=4",
@@ -22,7 +23,7 @@ const proffys = [
 }
 ]
 
-const subject = [
+const subjects = [
 'Artes',
 'Biologia',
 'Ciências',
@@ -32,9 +33,20 @@ const subject = [
 'História',
 'Matemática',
 'Português',
-'Química'
+'Química',
 ]
 
+const weekdays = [
+    'Domingo',
+    'Segunda-feira',
+    'Terça-feira',
+    'Quarta-feira',
+    'Quinta-feira',
+    'Sexta-feira',
+    'Sábado',
+]
+
+//Funcionalidades
 function pageLanding(req, res){
     return res.render("index.html")
 }
@@ -42,11 +54,14 @@ function pageLanding(req, res){
 function pageStudy( req, res){
     const filters = req.query;
 
-    return res.render("study.html", {proffys, filters})
+    return res.render("study.html", {proffys, filters, subjects, weekdays})
 }
 
 function pageGiveClasses(req, res){
-    return res.render("give-classes.html")
+    const dados = req.query
+    //Adcionar dados a lista proffys
+    console.log(dados)
+    return res.render("give-classes.html", {subjects, weekdays})
 }
 
 const express = require('express')
