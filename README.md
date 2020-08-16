@@ -4,15 +4,16 @@
   <img alt="NextLevelWeek" title="#Proffy" src="https://ik.imagekit.io/Nscmnt/page_Li9NmZeGx.PNG" />
 </h1>
 
-<p align="center">Uma plataforma de ensino que une alunos e professores de várias disciplinas, sendo possível reservar horários das aulas de acordo com a disponibilidade de datas e horas dos tutores.</p>
+<p align="center">Uma plataforma de ensino que une alunos e professores de várias disciplinas, sendo possível reservar horários das aulas de acordo com a disponibilidade de datas e horas dos tutores.
+</p>
+<p align ="center"> Desenvolvindo durante a NLW#2 da @rocketseat </p>
 
 
 <p align = "center">
   <a href="#pre"> Pré-requisito </a> •
   <a href="#rodando"> Rodando projeto </a> •
   <a href="#tecnologia">Tecnologias</a> • 
-  <a href="#autor"> Autor </a> •
-  <a href="#"> in progress </a>
+  <a href="#autor"> Autor </a>
 </p>
 
 <h4 align="center"> 
@@ -42,9 +43,10 @@ $ cd nlw
 $ npm install
 
 # Execute a aplicação 
-$ npm start
+$ npm run dev
 
-# O servidor inciará na porta:
+# O servidor iniciará na porta:
+$ 5500
 ```
 
 <h2 id="tecnologia">🛠 Tecnologias</h2>
@@ -61,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h2 id="autor"> 🎙Autor</h2>
 
 ---
- <img style="border-radius:50px;" width="100px;" height="100px;" src="https://ik.imagekit.io/Nscmnt/perfil_2ig9CJdMK.jpg"  alt="Foto do autor"/>
+ <img  width="100px;" height="100px;" style="border-radius:50px;" src="https://ik.imagekit.io/Nscmnt/perfil_2ig9CJdMK.jpg"  alt="Foto do autor"/>
  <br />
 Feito por <strong> Jorge Nascimento </strong> 💻 🚀
 
