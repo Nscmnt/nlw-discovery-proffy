@@ -5,8 +5,7 @@
 </h1>
 
 <p align="center">Uma plataforma de ensino que une alunos e professores de várias disciplinas, sendo possível reservar horários das aulas de acordo com a disponibilidade de datas e horas dos tutores.
-</p>
-<p align ="center"> Desenvolvindo durante a NLW#2 da @rocketseat </p>
+</p><p align ="center"> Desenvolvindo durante a NLW#2 da @rocketseat </p>
 
 
 <p align = "center">
@@ -63,11 +62,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h2 id="autor"> 🎙Autor</h2>
 
 ---
- <img  width="100px;" height="100px;" style="border-radius:50px;" src="https://ik.imagekit.io/Nscmnt/perfil_2ig9CJdMK.jpg"  alt="Foto do autor"/>
+ <img  width="80px;" height="80px;" style="border-radius:50px;" src="https://ik.imagekit.io/Nscmnt/perfil_2ig9CJdMK.jpg"  alt="Foto do autor"/>
  <br />
 Feito por <strong> Jorge Nascimento </strong> 💻 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-nascimento-a465511ab/)](https://www.linkedin.com/in/jorge-nascimento-a465511ab/) 
+
 [![Gmail Badge](https://img.shields.io/badge/-jorg3nascimento-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorg3nascimento@gmail.com)](mailto:jorg3nascimento@gmail.com)
 
 
