@@ -16,7 +16,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧 Status 🚀 Em construção...  🚧
+	🚧 Status 🚀 Finalizado !
 </h4>
 
 <h2 id="pre"> Pré-requisitos </h2>
@@ -67,7 +67,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito por <strong> Jorge Nascimento </strong> 💻 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-nascimento-a465511ab/)](https://www.linkedin.com/in/jorge-nascimento-a465511ab/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-jorg3nascimento-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorg3nascimento@gmail.com)](mailto:jorg3nascimento@gmail.com)
 
 
